@@ -88,5 +88,6 @@ body{
 }
 .footer{
     position: absolute;
-    top: 550px;
+    margin-top: 40px;
+    margin-left: 133px;
 }
